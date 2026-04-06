@@ -1,6 +1,5 @@
 # Improving PINNs for Seismic Wave Propagation and Full Waveform Inversion
 
-Final AMATH 445 project (Winter 2026).
 
 This repository reproduces and extends the PINN-based seismic inversion framework from:
 
